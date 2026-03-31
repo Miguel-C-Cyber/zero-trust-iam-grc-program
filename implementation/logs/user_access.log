@@ -1,0 +1,10 @@
+2026-03-30 20:25:47 - User: Amanda - Access: HR Files - Result: Denied (Account locked)
+2026-03-30 20:25:48 - User: Jane - Access: Admin Portal - Result: Denied (MFA missing)
+2026-03-30 20:25:49 - User: Steven - Access: Finance DB - Result: Denied (Insufficient privileges)
+2026-03-30 20:25:50 - User: Steven - Access: HR Files - Result: Denied (Insufficient privileges)
+2026-03-30 20:25:51 - User: Amanda - Access: Finance DB - Result: Denied (Account locked)
+2026-03-30 20:25:52 - User: Jane - Access: HR Files - Result: Denied (Account locked)
+2026-03-30 20:25:53 - User: Amanda - Access: HR Files - Result: Allowed
+2026-03-30 20:25:54 - User: Amanda - Access: Finance DB - Result: Denied (Insufficient privileges)
+2026-03-30 20:25:55 - User: Amanda - Access: Admin Portal - Result: Denied (Account locked)
+2026-03-30 20:25:56 - User: Steven - Access: HR Files - Result: Denied (Insufficient privileges)
