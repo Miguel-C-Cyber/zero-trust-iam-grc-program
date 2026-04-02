@@ -27,14 +27,14 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
 ## Project Structure
 zero-trust-iam-grc-program/
 ├── implementation/
-│ ├── scripts/
-│ ├── screenshots/
-│ └── audit/
-├── architecture/
-├── compliance/
-├── policies/
-├── risk-register/
-├── logs/
+│   ├── scripts/           # Python scripts for audit & logging
+│   ├── screenshots/       # Screenshots for documentation
+│   └── audit/             # Audit summaries
+├── architecture/          # Access control matrix & diagrams
+├── compliance/            # HIPAA and other compliance checklists
+├── policies/              # Security and usage policies
+├── risk-register/         # Risk register files
+├── logs/                  # Raw log files
 └── README.md
 
 ## Tools Used
