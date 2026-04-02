@@ -11,7 +11,7 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
 - Risk Register and Compliance Checklist
 
 ## Architecture
-![Architecture Diagram](implementation/screenshots/architecture_diagram.drawio.png)
+![Architecture Diagram](implementation/screenshots/architecture_diagram.png)
 
 ## Implementation
 - Python script generates user access logs
