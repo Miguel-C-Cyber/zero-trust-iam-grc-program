@@ -11,13 +11,16 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
 - Risk Register and Compliance Checklist
 
 ## Architecture
-![Architecture Diagram](implementation/screenshots/architecture_diagram.png)
+![Architecture Diagram](implementation/screenshots/architecture_diagram.png)  
 *Figure 1: Zero Trust IAM & GRC Architecture Overview*
 
 ## Implementation
-- Python script generates user access logs
+- Python scripts generate user access logs
 - Audit script summarizes access activity
 - Logs stored and analyzed for compliance monitoring
+- Audit summary output example:  
+![Audit Summary](implementation/screenshots/audit_summary_output.png)  
+*Figure 2: Sample Audit Summary Output*
 
 ## GRC Components
 - HIPAA Compliance Checklist
@@ -30,15 +33,15 @@ zero-trust-iam-grc-program/
 │   ├── scripts/       # Python scripts for audit & logging
 │   ├── screenshots/   # Screenshots for documentation
 │   └── audit/         # Audit summaries
-│       └── [audit_summary.md](implementation/audit/audit_summary.md)
+│       └── [Audit Summary](implementation/audit/audit_summary.md)
 ├── architecture/      # Access control matrix & diagrams
-│   └── [access_control_matrix.md](architecture/access_control_matrix.md)
+│   └── [Access Control Matrix](architecture/access-control-matrix.md)
 ├── compliance/        # HIPAA and other compliance checklists
-│   └── [hipaa_compliance_checklist.md](compliance/hipaa_compliance_checklist.md)
+│   └── [HIPAA Compliance Checklist](compliance/sample-hipaa-checklist.md)
 ├── policies/          # Security and usage policies
-│   └── [password_policy.md](policies/password_policy.md)
+│   └── [Password Policy](policies/password-policy.md)
 ├── risk-register/     # Risk register files
-│   └── [risk_register.md](risk-register/sample-risk-register.md)
+│   └── [Risk Register](risk-register/sample-risk-register.md)
 ├── logs/              # Raw log files
 └── README.md
 
@@ -46,6 +49,7 @@ zero-trust-iam-grc-program/
 - Python
 - Git & GitHub
 - VS Code
+- draw.io (for diagrams)
 
 ## Author
 Miguel Carrillo
