@@ -12,6 +12,7 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
 
 ## Architecture
 ![Architecture Diagram](implementation/screenshots/architecture_diagram.png)
+*Figure 1: Zero Trust IAM & GRC Architecture Overview*
 
 ## Implementation
 - Python script generates user access logs
