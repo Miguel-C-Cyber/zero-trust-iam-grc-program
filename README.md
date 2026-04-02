@@ -51,5 +51,7 @@ zero-trust-iam-grc-program/
 - VS Code
 - draw.io (for diagrams)
 
+**Note:** The audit summary output is generated dynamically and may vary with each run of the scripts.
+
 ## Author
 Miguel Carrillo
