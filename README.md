@@ -45,6 +45,24 @@ zero-trust-iam-grc-program/
 ├── logs/              # Raw log files
 └── README.md
 
+zero-trust-iam-grc-program/
+    README.md
+    implementation/
+        scripts/
+        screenshots/
+        audit/
+            audit-summary.md
+    architecture/
+        access-control-matrix.md
+    compliance/
+        hipaa-compliance-checklist.md
+    policies/
+        password-policy.md
+    risk-register/
+        risk-register.md
+    logs/
+        raw-logs/
+
 ## Tools Used
 - Python
 - Git & GitHub
