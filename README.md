@@ -48,25 +48,19 @@ zero-trust-iam-grc-program/
 
 - zero-trust-iam-grc-program/
   - README.md
-
   - implementation
     - scripts (Python scripts for audit & logging)
     - screenshots (evidence and documentation)
     - audit
       - audit-summary.md
-
   - architecture
     - access-control-matrix.md
-
   - compliance
     - hipaa-compliance-checklist.md
-
   - policies
     - password-policy.md
-
   - risk-register
     - risk-register.md
-
   - logs
     - raw-logs
 
