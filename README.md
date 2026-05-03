@@ -44,7 +44,7 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
   - risk-register
     - [Risk Register](./risk-register/sample-risk-register.md)
   - logs
-    - [user_access.log](./logs/user_access.log)
+    - [user_access.log](./logs/user_access.log) (Sample access log showing denied access events)
 
 
  
