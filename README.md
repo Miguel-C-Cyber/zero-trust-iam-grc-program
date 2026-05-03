@@ -64,30 +64,31 @@ zero-trust-iam-grc-program/
   - logs
     - raw-logs
    
-  - zero-trust-iam-grc-program
+- zero-trust-iam-grc-program
   - [README.md](./README.md)
 
   - implementation
-    - [scripts/](./implementation/scripts/) (Python scripts for audit & logging)
-    - [screenshots/](./implementation/screenshots/) (evidence and documentation)
-    - audit
-      - [audit-summary.md](./implementation/audit/audit-summary.md)
+    - scripts/ (Python scripts for audit & logging)
+    - screenshots/ (Screenshots for documentation)
+    - audit/
+      - [Audit Summary](./implementation/audit/audit_summary.md)
 
   - architecture
-    - [access-control-matrix.md](./architecture/access-control-matrix.md)
+    - [Access Control Matrix](./architecture/access-control-matrix.md)
 
   - compliance
-    - [hipaa-compliance-checklist.md](./compliance/hipaa-compliance-checklist.md)
+    - [HIPAA Compliance Checklist](./compliance/sample-hipaa-checklist.md)
 
   - policies
-    - [password-policy.md](./policies/password-policy.md)
+    - [Password Policy](./policies/password-policy.md)
 
   - risk-register
-    - [risk-register.md](./risk-register/risk-register.md)
+    - [Risk Register](./risk-register/sample-risk-register.md)
 
-  - logs
-    - [raw-logs/](./logs/)
+  - logs/ (Raw log files)
 
+
+ 
 ## Tools Used
 - Python
 - Git & GitHub
