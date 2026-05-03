@@ -43,7 +43,8 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
     - [Password Policy](./policies/password-policy.md)
   - risk-register
     - [Risk Register](./risk-register/sample-risk-register.md)
-  - logs/ (Raw log files)
+  - logs
+    - [user_access.log](./logs/user_access.log) (Raw access logs for audit analysis)
 
 
  
