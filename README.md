@@ -28,48 +28,12 @@ This project demonstrates a Zero Trust Identity and Access Management (IAM) syst
 - Security Policies
 
 ## Project Structure
-zero-trust-iam-grc-program/
-├── implementation/
-│   ├── scripts/       # Python scripts for audit & logging
-│   ├── screenshots/   # Screenshots for documentation
-│   └── audit/         # Audit summaries
-│       └── [Audit Summary](implementation/audit/audit_summary.md)
-├── architecture/      # Access control matrix & diagrams
-│   └── [Access Control Matrix](architecture/access-control-matrix.md)
-├── compliance/        # HIPAA and other compliance checklists
-│   └── [HIPAA Compliance Checklist](compliance/sample-hipaa-checklist.md)
-├── policies/          # Security and usage policies
-│   └── [Password Policy](policies/password-policy.md)
-├── risk-register/     # Risk register files
-│   └── [Risk Register](risk-register/sample-risk-register.md)
-├── logs/              # Raw log files
-└── README.md
-
-
-- zero-trust-iam-grc-program
-  - README.md
-  - implementation
-    - scripts (Python scripts for audit & logging)
-    - screenshots (evidence and documentation)
-    - audit
-      - audit-summary.md
-  - architecture
-    - access-control-matrix.md
-  - compliance
-    - hipaa-compliance-checklist.md
-  - policies
-    - password-policy.md
-  - risk-register
-    - risk-register.md
-  - logs
-    - raw-logs
-   
 - zero-trust-iam-grc-program
   - [README.md](./README.md)
   - implementation
-    - scripts/ (Python scripts for audit & logging)
-    - screenshots/ (Screenshots for documentation)
-    - audit/
+    - scripts (Python scripts for audit & logging)
+    - screenshots (Screenshots for documentation)
+    - audit
       - [Audit Summary](./implementation/audit/audit_summary.md)
   - architecture
     - [Access Control Matrix](./architecture/access-control-matrix.md)
